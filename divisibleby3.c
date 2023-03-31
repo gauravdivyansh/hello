@@ -9,5 +9,6 @@ int main() {
     }else{
         printf("The number given by user is not divisible by 3.\n");
     }
+    printf("This is me\n");
     return 0 ;
     }
